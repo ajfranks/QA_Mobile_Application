@@ -13,5 +13,5 @@ This project focuses on manually testing the Urban Lunch Android App using a Pix
 - Mobile App Testing: Android Studio
 - Emulator: Pixel 5 Emulator
 - Bug Reporting: Jira
-- Test Case Documentation: Test Cases
+- Test Case Documentation: Microsoft Excel
 - UI & Layouts: Figma

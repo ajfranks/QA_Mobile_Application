@@ -6,6 +6,12 @@
 This project focuses on manually testing the Urban Lunch Android App using a Pixel 5 emulator in Android Studio. I created and executed test cases to verify key app functions, including restaurant selection, meal ordering, and pickup confirmation. Any bugs found were reported in Jira with detailed steps and evidence to support resolution. 
 
 ## Test Coverage 
+- Test Cases: 45
+- Focus Area: Restaurant selection, meal ordering, and pickup confirmation
 
-
-## Tools & Technologies 
+## Tools & Technologies
+- Android Studio
+- Pixel 5 Emulator
+- Jira
+- Google Drive (test cases)
+- Figma (layouts)

@@ -7,7 +7,6 @@ This project focuses on manually testing the Urban Lunch Android App using a Pix
 
 ## Test Coverage 
 - Test Cases: 45
-- Focus Area: Restaurant selection, meal ordering, and pickup confirmation
 
 ## Tools & Technologies
 - Mobile App Testing: Android Studio
